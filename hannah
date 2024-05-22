@@ -1,0 +1,52 @@
+<html>
+<head>
+    <title>WEBSITE</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body bgcolor="#cf9fff">
+  
+    <header>
+        <h1>SWEET FRESHIES</h1>
+        <hr>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#menu">Menu</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+          <hr>
+            <h2>About Us</h2>
+            <p>Welcome to SWEET FRESHIES, where we juice up happiness!</p>
+        </section>
+        <hr>
+        <section id="menu">
+            <h2>Our Menu</h2>
+            <ul>
+                <li>Buko Juice</li>
+                <li>Melon Juice</li>
+             
+            </ul>
+            <hr>
+        </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Brgy. Camansihan, Calapan City, Oriental Mindoro</p>
+            <p>Phone: 09916249527</p>
+            <p>G-mail: sweetfreshies@gmail.com</p>
+        </section>
+    </main>
+    <footer>
+      
+      <br>
+      <br>
+      <br>
+        <p> <center>&copy; SWEET FRESHIES</center></p>
+    </footer>
+</body>
+</html>
+  
+
